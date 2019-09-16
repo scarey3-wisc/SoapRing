@@ -1,0 +1,8 @@
+﻿  Checking Build System
+  CMake is re-running because C:/Users/longs/source/repos/839 Project ONe/build/tests/SoapRing/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/longs/source/repos/839 Project ONe/tests/SoapRing/CMakeLists.txt'
+    is newer than 'C:/Users/longs/source/repos/839 Project ONe/build/tests/SoapRing/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/longs/source/repos/839 Project ONe/build

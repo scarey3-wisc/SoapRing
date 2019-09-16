@@ -1,0 +1,3 @@
+C:/Users/longs/source/repos/839 Project ONe/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/longs/source/repos/839 Project ONe/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/longs/source/repos/839 Project ONe/build/tests/SoapRing/CMakeFiles/SoapRing.dir
